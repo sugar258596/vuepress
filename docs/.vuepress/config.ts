@@ -71,7 +71,7 @@ export default defineUserConfig({
         commentPlugin({
             provider: "Giscus",
             repo: 'sugar258596/blog-giscus-comment',
-            repoId: 'R_kgDOJADaHw', // id
+            repoId: 'R_kgDOJ_CtaQ', // id
             category: 'Announcements',
             categoryId: 'DIC_kwDOJADaH84CUUwQ', // id
             mapping: 'pathname', // url
