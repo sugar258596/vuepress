@@ -27,7 +27,7 @@ export default defineUserConfig({
 
     // configure default theme
     theme: defaultTheme({
-        logo: '/logo/logo.png',
+        logo: '/logo/favicon.ico',
         repo: 'sugar258596/vuepress',
         docsBranch: 'master',
         docsDir: 'docs',
