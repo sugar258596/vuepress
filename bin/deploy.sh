@@ -12,7 +12,7 @@ build_command=build
 dist_path=docs/.vuepress/dist # 打包生成的文件夹路径
 
 # 项目发布域名
-web_url=https://sugar258596.github.io/vuepress2/
+web_url=https://sugar258596.github.io/vuepress/
 # 项目git 地址
 git_source=https://github.com/sugar258596/vuepress.git
 # 上传分支，如果是 master 请使用 main_branch=master

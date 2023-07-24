@@ -12,7 +12,7 @@ import sidebar from "./configs/sidebar";
 
 export default defineUserConfig({
     // set site base to default value
-    base: '/vuepress2/',
+    base: '/vuepress/',
 
 
     // extra tags in `<head>`
