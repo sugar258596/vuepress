@@ -70,7 +70,7 @@ export default defineUserConfig({
             repo: 'sugar258596/blog-giscus-comment',
             repoId: 'R_kgDOJ_CtaQ', // id
             category: 'Announcements',
-            categoryId: 'DIC_kwDOJADaH84CUUwQ', // id
+            categoryId: 'DIC_kwDOJ_Ctac4CYFzD', // id
             mapping: 'pathname', // url
             lazyLoading: true,
             reactionsEnabled: true,
