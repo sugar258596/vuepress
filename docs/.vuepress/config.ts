@@ -13,11 +13,8 @@ import sidebar from "./configs/sidebar";
 export default defineUserConfig({
     // set site base to default value
     base: '/vuepress/',
-
-
     // extra tags in `<head>`
     head: head,
-
     // site-level locales configs
     locales: {
         '/': {
@@ -27,12 +24,11 @@ export default defineUserConfig({
         },
     },
 
-
     // configure default theme
     theme: defaultTheme({
         logo: '/logo/logo.png',
-        repo: 'sugar258596/vuepress2',
-        docsBranch: 'main',
+        repo: 'sugar258596/vuepress',
+        docsBranch: 'master',
         docsDir: 'docs',
 
         // theme-level locales configs
