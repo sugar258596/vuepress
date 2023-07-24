@@ -10,7 +10,7 @@ log=$path/$source-error.log
 
 
 # 项目发布域名
-web_url='https://sugar258596.github.io/vuepress2/'
+web_url='https://sugar258596.github.io/vuepress/'
 # 上传消息
 git_message="deploy $web_url"
 

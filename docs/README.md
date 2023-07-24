@@ -27,7 +27,7 @@ footer: MIT Licensed | Copyright © 2022-present sugar258596
 ### 像数 1, 2, 3 一样容易
 
 ```shell
-git clone https://github.com/sugar258596/vuepress2
+git clone https://github.com/sugar258596/vuepress
 ```
 
 

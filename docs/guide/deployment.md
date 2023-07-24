@@ -10,9 +10,9 @@
 检查配置,默认配置如下
 ```shell
 # 项目发布域名
-web_url=https://sugar258596.github.io/vuepress2/
+web_url=https://sugar258596.github.io/vuepress/
 # 项目git 地址
-git_source=https://github.com/sugar258596/vuepress2
+git_source=https://github.com/sugar258596/vuepress
 # 上传分支，如果是 master 请使用 main_branch=master
 main_branch=main
 # 项目打包生成的上传分支

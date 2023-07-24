@@ -1,12 +1,12 @@
 
 
-## vuepress2-theme-template
+## vuepress-theme-template
 
 
-[https://sugar258596.github.io/vuepress2](https://sugar258596.github.io/vuepress2/)
+[https://sugar258596.github.io/vuepress](https://sugar258596.github.io/vuepress/)
 
 ```shell
-git clone https://github.com/sugar258596/vuepress2
+git clone https://github.com/sugar258596/vuepress
 ```
 
 
