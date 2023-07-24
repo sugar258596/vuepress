@@ -1,6 +1,7 @@
 import { defineUserConfig, defaultTheme } from 'vuepress'
 import { commentPlugin } from "vuepress-plugin-comment2";
 import { copyCodePlugin } from "vuepress-plugin-copy-code2";
+import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 // @ts-ignore
 import { searchPlugin } from '@vuepress/plugin-search'
 // const isProd = process.env?.NODE_ENV === 'production'
@@ -85,7 +86,11 @@ export default defineUserConfig({
                     copy: 'click copy'
                 }
             }
-        })
+        }),
+
+
+        // 返回1
+        backToTopPlugin(),
 
 
     ]
