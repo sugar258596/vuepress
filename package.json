@@ -1,0 +1,31 @@
+{
+  "name": "vuepress2-tempalte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "cd bin && deploy.sh && cd ..",
+    "start": "cd bin && start.sh && cd ..",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/client": "2.0.0-beta.61",
+    "@vuepress/plugin-docsearch": "2.0.0-beta.61",
+    "@vuepress/plugin-search": "2.0.0-beta.61",
+    "@vuepress/utils": "2.0.0-alpha.1",
+    "vue": "^3.2.47",
+    "vuepress": "2.0.0-beta.61",
+    "vuepress-plugin-comment2": "2.0.0-beta.207",
+    "vuepress-plugin-copy-code2": "2.0.0-beta.207",
+    "vuepress-plugin-reading-time2": "2.0.0-beta.207"
+  },
+  "dependencies": {
+    "@jridgewell/sourcemap-codec": "^1.4.15",
+    "@vuepress/theme-default": "2.0.0-beta.61"
+  }
+}
