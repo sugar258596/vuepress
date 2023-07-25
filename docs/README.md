@@ -21,7 +21,7 @@ features:
     details: 简介5
   - title: 标题6
     details: 简介6
-footer: MIT Licensed | Copyright © 2022-present sugar258596
+footer: MIT Licensed | Copyright © 2023-present sugar258596
 ---
 
 ### 像数 1, 2, 3 一样容易
